@@ -4,3 +4,6 @@ res://scenes/main.tscn
 res://scenes/cell.tscn
 res://scenes/court.tscn
 res://scripts/cell.gd
+res://scripts/court.gd
+res://scripts/new_script.gd
+res://scripts/splash_screen.gd
