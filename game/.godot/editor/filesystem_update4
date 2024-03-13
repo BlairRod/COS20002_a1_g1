@@ -1,7 +1,6 @@
-res://scenes/game.tscn
+res://scenes/splash_screen.tscn
 res://scripts/main.gd
 res://scenes/main.tscn
 res://scenes/cell.tscn
 res://scenes/court.tscn
-res://scripts/game.gd
 res://scripts/cell.gd
